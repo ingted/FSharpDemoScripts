@@ -1,15 +1,3 @@
-﻿// FSharp.Core.Extended
-//
-//   -- Bring together parts of FSharpx and ExtCore.
-//   -- Designed and approved by Don
-//   -- Fully tested, on Nuget, FSF key
-//   -- Included in community templates
-//   -- Can assume its existence in F# books
-//   -- Clean license
-//   -- Versioning roadmap
-
-
-//namespace global
 
 [<AutoOpen>]
 module FluentExtensions = 
